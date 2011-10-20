@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/usr/local/software/java/lib/bonecp/bonecp-0.7.1.RELEASE.jar" sourcepath="/usr/local/software/java/lib/bonecp/bonecp-0.7.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/software/java/lib/guava/guava-10.0.1.jar" sourcepath="/usr/local/software/java/lib/guava/guava-10.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/software/java/lib/logback/logback-0.9.29/logback-classic-0.9.29.jar" sourcepath="/usr/local/software/java/lib/logback/logback-0.9.29/logback-classic-0.9.29-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/software/java/lib/logback/logback-0.9.29/logback-core-0.9.29.jar" sourcepath="/usr/local/software/java/lib/logback/logback-0.9.29/logback-core-0.9.29-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/software/java/lib/mysql_connector/mysql-connector-java-5.1.18/mysql-connector-java-5.1.18-bin.jar" sourcepath="/usr/local/software/java/lib/mysql_connector/mysql-connector-java-5.1.18/src"/>
+	<classpathentry kind="lib" path="/usr/local/software/java/lib/netty/netty-3.2.5.Final/jar/netty-3.2.5.Final.jar" sourcepath="/usr/local/software/java/lib/netty/netty-3.2.5.Final/jar/netty-3.2.5.Final-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/software/java/lib/slf4j/slf4j-1.6.2/slf4j-api-1.6.2.jar" sourcepath="/usr/local/software/java/lib/slf4j/slf4j-1.6.2/slf4j-api-1.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/software/java/lib/junit/junit4.10/junit-4.10.jar" sourcepath="/usr/local/software/java/lib/junit/junit4.10/junit-4.10-src.jar"/>
+	<classpathentry kind="lib" path="/usr/local/software/java/lib/napkinlaf/napkinlaf-1.2.jar" sourcepath="/usr/local/software/java/lib/napkinlaf/napkinlaf"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
